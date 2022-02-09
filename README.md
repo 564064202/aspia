@@ -2,6 +2,7 @@
 下载地址
 
 苹果手机 app store:Rocket.Chat
+
 安卓手机:  
 
 https://github.91chi.fun//https://github.com//RocketChat/Rocket.Chat.Android/releases/download/v3.5.1-2077/app-foss-release.apk
