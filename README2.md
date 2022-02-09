@@ -1,14 +1,15 @@
 
 下载地址
 
-苹果手机 app store:Rocket.Chat
+苹果手机 app store商店搜索 Rocket.Chat
 
-安卓手机:  
+安卓手机:  浏览器下载安装
 
 https://github.91chi.fun//https://github.com//RocketChat/Rocket.Chat.Android/releases/download/v3.5.1-2077/app-foss-release.apk
 
 
 账号
+
 jiujiu
 jiujiu123.
 
