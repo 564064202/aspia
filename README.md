@@ -1,47 +1,31 @@
-Aspia
-=====
-Remote desktop and file transfer tool.
 
-|Build Status|
-|:--:|
-|![Build status](https://github.com/dchapyshev/aspia/workflows/sw/badge.svg)|
+下载地址
 
-Currently supported
--------------------
-- Remote desktop management
-- Remote desktop view
-- File transfer
-- Encryption
-- Authorization (it is possible to add users with different access rights)
-- Address book with encryption and master-password
-- NAT traversal
-- Audio support
-- Client and Console for MacOS X and Linux
+苹果手机 app store:Rocket.Chat
+安卓手机:  
 
-System requirements
--------------------
-- x86 or x86_64 CPU with SSE2 support
-- Windows 7/2008 R2 or higher, Debian/Ubuntu Linux, MacOS X
+https://github.91chi.fun//https://github.com//RocketChat/Rocket.Chat.Android/releases/download/v3.5.1-2077/app-foss-release.apk
 
-Night builds
-------------
-Nightly builds are [available](https://files.aspia.org/nightly) for Windows, MacOS X, Linux.
-Please note that nightly builds are not a release and may contain bugs.
 
-Contacts
---------
-E-Mail: dmitry@aspia.ru
+账号
+jiujiu
+jiujiu123.
 
-Group in Telegram: [@aspia_ru](https://t.me/aspia_ru)
+jiuma
+jiuma123.
 
-Licensing
----------
-Project code is available under the GNU General Public License 3.
+tudi
+tudi123.
 
-For more information, see [license agreement](LICENSE.md).
+maomao
+maomao123.
 
-See also
---------
-- [Code of conduct](CODE_OF_CONDUCT.md)
-- [Instructions for building the project](doc/building.md)
-- [Instructions for translators](doc/translators.md)
+shen
+shen123.
+
+shenshushu
+shenshushu123.
+
+laoba
+laoba123.
+
