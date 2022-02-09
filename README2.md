@@ -8,7 +8,7 @@
 https://github.91chi.fun//https://github.com//RocketChat/Rocket.Chat.Android/releases/download/v3.5.1-2077/app-foss-release.apk
 
 
-账号
+账号(密码注意有一个.)
 
 jiujiu
 jiujiu123.
