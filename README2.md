@@ -11,29 +11,49 @@ https://github.91chi.fun//https://github.com//RocketChat/Rocket.Chat.Android/rel
 
 账号(密码注意有一个.)
 
+舅舅
 jiujiu
 jiujiu123.
 
+舅妈
 jiuma
 jiuma123.
 
+徒弟
 tudi
 tudi123.
 
-maomao
+毛毛
+maomaomao
 maomao123.
 
+沈阿姨
 shenayi
 shen123.
 
+沈叔叔
 shenshushu
 shenshushu123.
 
+师父
+shifushifu 
+shifu123.
+
+
+老爸
 laoba
 laoba123.
 
-shifushifu
-shifu123.
+
+师母
+liushimu
+shimu123.
+
+
+
+
+
+
 
 也可自行注册
 https://open.rocket.chat/home
