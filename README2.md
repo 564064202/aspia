@@ -32,6 +32,8 @@ shenshushu123.
 laoba
 laoba123.
 
+shifushifu
+shifu123.
 
 也可自行注册
 https://open.rocket.chat/home
