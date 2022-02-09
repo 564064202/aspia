@@ -1,5 +1,5 @@
 
-下载地址
+下载地址如下:请复制保存此页内容
 
 苹果手机 app store商店搜索 Rocket.Chat
 
@@ -31,3 +31,6 @@ shenshushu123.
 laoba
 laoba123.
 
+
+也可自行注册
+https://open.rocket.chat/home
