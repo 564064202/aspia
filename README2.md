@@ -5,7 +5,7 @@
 
 安卓手机:  复制到手机浏览器进行下载安装
 
-https://github.91chi.fun//https://github.com//RocketChat/Rocket.Chat.Android/releases/download/v3.5.1-2077/app-foss-release.apk
+https://github.91chi.fun//https://github.com//RocketChat/Rocket.Chat.ReactNative/releases/download/4.24.0/android-official-release.apk
 
 使用以下账号,登录进去以后有群邀请,进去即可,发个消息表示进来了
 
