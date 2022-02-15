@@ -7,7 +7,7 @@
 
 https://github.91chi.fun//https://github.com//RocketChat/Rocket.Chat.Android/releases/download/v3.5.1-2077/app-foss-release.apk
 
-使用以下账号,登录进去以后有群邀请,进去即可
+使用以下账号,登录进去以后有群邀请,进去即可,发个消息表示进来了
 
 账号(密码注意有一个.)
 
