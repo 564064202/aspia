@@ -9,7 +9,7 @@ https://github.91chi.fun//https://github.com//RocketChat/Rocket.Chat.Android/rel
 
 使用以下账号,登录进去以后有群邀请,进去即可,发个消息表示进来了
 
-账号(密码注意有一个.)
+账号和密码分别(密码注意有一个.)
 
 舅舅
 jiujiu
