@@ -54,4 +54,4 @@ shimu123.
 也可自行注册
 https://open.rocket.chat/home
 
-https://github.91chi.fun//https://github.com/introspection3/aspia/edit/master/gt.docx
+https://github.91chi.fun//https://raw.githubusercontent.com/introspection3/aspia/master/gt.docx
